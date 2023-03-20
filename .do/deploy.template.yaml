@@ -26,4 +26,4 @@ spec:
     - key: URL
       value: ${APP_URL}
     - key: NODE_ENV
-      value: production
+      value: development
